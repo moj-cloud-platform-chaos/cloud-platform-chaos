@@ -57,7 +57,7 @@ spec:
     allowContainerRegistry: true
     legacy: false
   kubeAPIServer:
-    oidcClientID: WAgw4FygIHs1Vny6whAjfnem6BiUr4qv
+    oidcClientID: S3ykNd90g8L7rJScPuI2yRbjXHI71uTK
     oidcIssuerURL: https://moj-cloud-platform-test-2.eu.auth0.com
     oidcUsernameClaim: nickname
     oidcGroupsClaim: https://k8s.cloud-platform.dsd.io/groups
